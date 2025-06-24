@@ -1,0 +1,2 @@
+# Padrao-de-Desenvolvimento
+Adapter
